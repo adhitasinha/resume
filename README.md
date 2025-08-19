@@ -1,41 +1,53 @@
+# 📄 Resume – Adhita Sinha
 
-OBJECTIVE
-Computer Science Engineering student specializing in Machine Learning, NLP, and Data Analysis. Skilled in Python, C++, and Cloud Platforms, with hands-on experience in AI-driven applications, model deployment, and data pipelines. Seeking opportunities to apply technical expertise and problem-solving skills to impactful AI/ML projects
+This repository contains the latest version of my resume.  
+It highlights my education, technical skills, internships, and projects in **Machine Learning, NLP, and Data Science**.
 
-EDUCATION
-Vellore Institute of Technology	Bhopal, Madhya Pradesh
-Bachelor of Technology in Computer Science & Engineering	2022-2026
-CGPA – 8.56 (current)	 
-  
-PROJECT EXPERIENCE
-1.	Intrusion Detection Using NSL-KDD Dataset (Machine Learning) 			GitHub
-•	Applied KNN, Gaussian Naïve Bayes, Logistic Regression, SVM, Decision Tree, Random Forest on the NSL-KDD dataset.
-•	Evaluated models using accuracy, precision, recall, and F1-score; Random Forest achieved highest accuracy.
-•	Strengthened expertise in network security, anomaly detection, and ML model evaluation.
+---
 
-2.	SHL Assessment Recommendation System (NLP & Semantic Search)                       GitHub
-•	Built a semantic search-based recommendation engine to map job descriptions to relevant SHL assessments.
-•	Implemented Instructor-XL embeddings + FAISS vector search, improving query-matching precision.
-•	Evaluated with MAP@3 and Recall@3, achieving high accuracy in recommendation quality.
-•	Developed data pipelines for scraping, cleaning, embedding generation, and querying.
+## 👩‍💻 About Me
+**Adhita Sinha**  
+- 📍 B.Tech in Computer Science & Engineering (2022–2026) – VIT Bhopal  
+- 📧 Email: adhitasinha2022@vitbhopal.ac.in  
+- 📱 Mobile: +91 8307923586  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adhitasinha)  
 
-3.	Infi Music Recording System (Full-Stack + ML)                                                              GitHub
-•	Designed a hybrid audio application integrating ML backend (Jupyter, Python) with HTML/CSS/JavaScript frontend.
-•	Enabled music recording, playback, and audio signal processing.
-•	Demonstrated end-to-end development, combining machine learning and full-stack web technologies.
+Passionate about **AI-driven applications, NLP, and data analysis**. Skilled in Python, C++, and cloud technologies, with hands-on experience in ML model development, deployment, and data pipelines.  
 
-INTERNSHIP
-Winter Internship – India Space Lab (ISL)                                                      Dec 2024 – Jan 2025
-Worked on Advanced Drone Technology, CanSat & CubeSat (student satellites), Astronomy, and Space Entrepreneurship.
-•	Trained in aerospace systems, satellite communication, and UAV technology.
-•	Gained hands-on experience in designing and analysing aerospace & satellite systems.
+---
 
-SKILLS
-•	Programming & Scripting: Python (3.10), C++, JavaScript (HTML/CSS), Jupyter Notebooks
-•	Machine Learning & NLP: Scikit-learn algorithms, sentence embeddings (instructor-xl), semantic similarity, audio signal processing
-•	Web Technologies: HTML/CSS/JavaScript, frontend-backend integration
-•	Data Handling: Web scraping, metadata cleaning, JSON/CSV manipulation
-•	Deployment & Tools: Git, AWS, MySQL, MongoDB
+## 🎓 Education
+- **Vellore Institute of Technology, Bhopal**  
+  B.Tech in Computer Science & Engineering (2022–2026)  
+  **CGPA:** 8.56 (current)  
 
-CO- CURRICULAR ACTIVITIES 
-•	Core Member at Artificial Intelligence Club 
+---
+
+## 🚀 Projects
+- **Intrusion Detection Using NSL-KDD Dataset** – Applied multiple ML algorithms for anomaly detection in network traffic.  
+- **SHL Assessment Recommendation System** – Built a semantic search-based recommendation system using Instructor-XL embeddings + FAISS.  
+- **Infi Music Recording System** – Developed a hybrid audio application integrating ML with full-stack technologies.  
+
+---
+
+## 💼 Internship
+**Winter Internship – India Space Lab (ISL)** (Dec 2024 – Jan 2025)  
+- Worked on **Advanced Drone Technology, CubeSat/CanSat, Astronomy, and Space Entrepreneurship**.  
+- Hands-on training in aerospace systems, satellite communication, and UAV technology.  
+
+---
+
+## 🛠 Skills
+- **Programming:** Python, C++, JavaScript (HTML/CSS)  
+- **Machine Learning/NLP:** Scikit-learn, sentence embeddings, semantic similarity, audio signal processing  
+- **Web Tech:** HTML, CSS, JavaScript  
+- **Databases:** MySQL, MongoDB  
+- **Tools & Cloud:** Git, AWS, Jupyter Notebooks  
+
+---
+
+## 📂 Repository Usage
+- Clone this repo:
+  ```bash
+  git clone https://github.com/adhitasinha/resume.git
+
